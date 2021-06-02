@@ -8,7 +8,8 @@
 
 ## Resources
 
-- //https://www.w3schools.com/js/js_errors.asp
+- https://www.w3schools.com/js/js_errors.asp
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter
 
 ## Code Snippet for var htmlString
 ```html
