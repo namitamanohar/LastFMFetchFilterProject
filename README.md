@@ -5,6 +5,13 @@
 - For this project, you will be looking at the starter code and following the directions in the scripts.js file. This project is an extension on the Music CRUD application to allow you to understand the importance of using APIs. You will be creating a fetch call to retrieve song data from an external API calle LastFM and then rendering that data onto your webpage. You will also go through how to create a filter for the song names. 
 - As mentioned in the overview since we are using an external API we will not be doing the actions of Create, Update or Delete. 
 
+## Fetch Call 
+-Here is an example fetch call 
+```html 
+    const res = await fetch(
+      "YOUR URL HERE"
+    );
+```
 
 ## Resources
 
